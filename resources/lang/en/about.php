@@ -1,0 +1,5 @@
+<?php 
+
+return [
+    'content' => 'Dubicars launched in 2014 and in just five years has become the UAE’s largest online car market for buyers and sellers across the country attracting over 1 million car buyers every month, which we are very proud of! What makes us different I hear you ask? Well, there are a few things. Firstly, we only focus on cars, and that means our platform only attracts serious car buyers. I know we all love to hear the words “last price, last price” but with Dubicars, we only focus on real buyers who are genuinely interested in buying your car. With a combination of world-class technology, excellent photos, quality descriptions, industry data and a team that are passionate about cars (especially about selling your car or helping you find your next car) you’ll hear “last price” less and “good deal” more, a lot more.',
+];
